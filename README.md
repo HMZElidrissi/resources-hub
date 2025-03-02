@@ -1,6 +1,6 @@
-# Class Aziz Resources Hub 🌐
+# Resources Hub 🌐
 
-Welcome to the Class Aziz Resources Hub, a collaborative space for YouCode students to share and access valuable resources. Here, you'll find links, books, and materials to enhance your learning experience.
+Welcome to our Resources Hub, a collaborative space students to share and access valuable resources. Here, you'll find links, books, and materials to enhance your learning experience.
 
 ## Table of Contents
 1. [Programming and Development Resources](#programming-and-development-resources)
@@ -91,8 +91,6 @@ Welcome to the Class Aziz Resources Hub, a collaborative space for YouCode stude
 - [Iconify (For Figma Users)](https://iconify.design/)
 
 ## Practice and Challenges
-
-
 
 - [Frontend Mentor](https://www.frontendmentor.io/challenges?types=free)
 - [100DaysCss](https://100dayscss.com/)
